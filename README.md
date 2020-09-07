@@ -5,4 +5,3 @@ This project is to detect the different colors in the picture and show its color
 - opencv
 - numpy
 - pandas
-- argparse
